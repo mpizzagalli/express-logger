@@ -26,6 +26,7 @@
   "homepage": "https://github.com/mpizzagalli/express-logger#readme",
   "dependencies": {
     "cls-hooked": "^4.2.2",
+    "on-finished": "^2.3.0",
     "pino": "^5.11.1",
     "pino-pretty": "^2.5.0",
     "uuid": "^3.3.2",
