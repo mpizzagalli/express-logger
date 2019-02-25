@@ -1,1 +1,1 @@
-module.exports = (message) => message.toUpperCase();
+module.exports = require('./lib/');
